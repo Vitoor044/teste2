@@ -8,6 +8,6 @@ window.alert(`
     cd Docs Clientes
     md ${nome}
     cd ${nome}
-    md Docs Editados
+    md Docs Editadoss
     cd..
 `)
